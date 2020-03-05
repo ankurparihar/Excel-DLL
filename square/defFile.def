@@ -1,0 +1,5 @@
+
+
+LIBRARY "square"
+EXPORTS
+square
